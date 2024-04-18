@@ -1,0 +1,99 @@
+
+.Lince {
+    font-family: 'Lucida Sans';
+    padding: 30px 60px;
+    background-color: #ddd9cbde ;
+    text-align: center;
+    width: 100%;
+}
+
+p,.url{
+    text-align: center;
+}
+h2 {
+    display: inline;
+    background-color: #C0BA97;
+    text-align: center;
+    width: auto;
+}
+header{
+    background-color: #C0BA97;
+    text-align: center;
+    padding: 20px;
+}
+
+.imagen2{
+    width: 250px;
+    height: 300px;
+    margin: auto;
+    padding-block: 30px;
+}
+
+.imagen1{
+    width:200px;
+    height: 200px;
+    padding: 10px;
+    display:inline-block;
+   
+}
+table{
+   margin-left: auto;
+   margin-right: auto;
+   padding-block: 30px;
+}
+
+th{
+    background-color: #ad935a;
+    border: 1px solid;
+}
+td{
+    background-color: rgb(211, 203, 178);
+    text-align: center;
+    border: 1px solid;
+}
+.contenedor{
+    padding: 20px; 
+    
+}
+
+nav{
+    background-color: #ad935a;
+    overflow: hidden;
+}
+nav a{
+    color: #00000085;
+    text-decoration: none;
+    display: block;
+    float: left;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: #C0BA97;
+    color: black;
+}
+main{
+    padding: 30px;
+}
+
+footer{
+    background-color: #C0BA97;
+    text-align: center;
+    padding: 15px;
+    position:sticky;    
+    bottom: 0;
+    width: 100%;
+}
+
+label{
+    display: inline-block;
+    padding: 5px;
+    text-align: right;
+    
+    
+}
+form{
+    text-align:center;
+}
+
